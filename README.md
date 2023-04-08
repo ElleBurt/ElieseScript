@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm elle</h1>
 <h3 align="center">A developer from Great Britain 🇬🇧</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliesescript&label=Profile%20views&color=#850c0c&style=flat" alt="eliesescript" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliesescript&label=Profile%20views&color=850c0c&style=flat" alt="eliesescript" /> </p>
 
 - 💻 Current Projects: **A Discord bot, working in a small team**
 
