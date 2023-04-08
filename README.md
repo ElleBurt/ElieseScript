@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋🏼, I'm Elle/el,<br>📍I am a Developer based in the UK.<br><br>🎯Learning programming has been a hobby of mine for years, <br>Starting with Python & C# and now moving into Full-stack web development.<br><br><h3>🤔 My main interests reside within:</h3> <br>↪ Game Development <sub>Unity & C#</sub><br>↪ Discord Bots <sub>Python</sub><br>↪ Front-End WebDev <sub>JS, PHP,HTML,CSS</sub><br><br><br> 
+Hey 👋🏼, I'm Elle/el,<br>📍I am a Developer based in the UK.<br><br>🎯Learning programming has been a hobby of mine for years, <br>Starting with Python & C# and now moving into Full-stack web development.<br><br><h3>🤔 My main interests reside within:</h3> <br>↪ Game Development <sub>Unity & C#</sub><br>↪ Discord Bots <sub>Python</sub><br>↪ Front-End WebDev <sub>JS, PHP, HTML, CSS</sub><br><br><br> 
 
 
 # 💻 Tech Stack:
