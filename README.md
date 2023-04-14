@@ -2,7 +2,7 @@
 Hey 👋🏼, I'm Elle/el,<br>📍I am a Developer based in the UK.<br><br>🎯Learning programming has been a hobby of mine for years, <br>Starting with Python & C# and now moving into Full-stack web development.<br><br><h3>🤔 My main interests reside within:</h3> ⦾ Game Development <sub>[ Unity & C# ]</sub><br>⦾ Discord Bots <sub>[ Python ]</sub><br>⦾ Front-End WebDev <sub>[ JS | HTML | CSS ]</sub>
 ---
 <br> 
-
+<br>
 Want to learn more: https://elleburt.co.uk/
 
 [![](https://visitcount.itsvg.in/api?id=ElieseScript&icon=3&color=12)](https://visitcount.itsvg.in)
