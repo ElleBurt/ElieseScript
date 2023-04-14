@@ -3,7 +3,7 @@ Hey 👋🏼, I'm Elle/el,<br>📍I am a Developer based in the UK.<br><br>🎯L
 ---
 <br> 
 <br>
-<a href="https://elleburt.co.uk/" target="_blank">Want to learn more?</a>
+[Want to learn more?](https://elleburt.co.uk/)
 
 
 [![](https://visitcount.itsvg.in/api?id=ElieseScript&icon=3&color=12)](https://visitcount.itsvg.in)
