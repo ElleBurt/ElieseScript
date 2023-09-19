@@ -1,14 +1,12 @@
 <h2>🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK. </h2>
 <h3>Learning programming has been my creative journey for years. Starting with Python & C#, I’ve explored the realms of full-stack web development, 3D art, digital art, and game development. This captivating voyage has allowed me to blend my passion for programming with my love for creating immersive visual experiences.</h3>
 <h3>🤗 My main interests reside within:</h3> 
-<br>
 ⦾ Game Development - I enjoy working with Unity, C#, Roblox Studio, and Lua.
 <br>
 ⦾ Front-End WebDev - I specialize in JS, HTML, CSS, and Vite.
 <br>
 ⦾ 3D Modeling & Texturing - I love creating stunning visuals using Blender and Photoshop.
-<br> 
-<br>
+---
 Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. 😊
 <br>
 <br>
