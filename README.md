@@ -1,13 +1,20 @@
-# 🖤 About Me:
-Hey 🫣, I'm Elle/el,<br>📍I am a Developer based in the UK.<br><br>🎯Learning programming has been a hobby of mine for years, <br>Starting with Python & C# and now moving into Full-stack web development.<br><br><h3>🤗 My main interests reside within:</h3> ⦾ Game Development <sub>[ Unity | C# | Roblox Studio | Lua ]</sub><br>⦾ Front-End WebDev <sub>[ JS | HTML | CSS | Vite ]</sub><br>⦾ 3D modeling & Texturing <sub>[ Blender | Photoshop ]</sub>
----
+🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK. 
+<br>
+🎯 Learning programming has been my hobby for years, starting with Python & C# and now venturing into full-stack web development.
+<br>
+<h3>🤗 My main interests reside within:</h3> 
+<br>
+⦾ Game Development - I enjoy working with Unity, C#, Roblox Studio, and Lua.
+<br>
+⦾ Front-End WebDev - I specialize in JS, HTML, CSS, and Vite.
+<br>
+⦾ 3D Modeling & Texturing - I love creating stunning visuals using Blender and Photoshop.
 <br> 
 <br>
-<a href="https://elleburt.co.uk/">Want to learn more?</a>
+Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. 😊
 <br>
 <br>
-<a href="http://www.trucklinkvtc.co.uk/">Checkout another site i worked on</a>
-
+Also, don’t forget to take a look at another site I worked on: <a href="http://www.trucklinkvtc.co.uk/">Trucklink VTC.</a>
 
 [![](https://visitcount.itsvg.in/api?id=ElieseScript&icon=3&color=12)](https://visitcount.itsvg.in)
 ---
