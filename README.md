@@ -1,6 +1,5 @@
 <h2>🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK. </h2>
 <h3>🎯 Learning programming has been my hobby for years, starting with Python & C# and now venturing into full-stack web development.</h3>
-<br>
 <h3>🤗 My main interests reside within:</h3> 
 <br>
 ⦾ Game Development - I enjoy working with Unity, C#, Roblox Studio, and Lua.
