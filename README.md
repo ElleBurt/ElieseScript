@@ -6,7 +6,9 @@
 ⦾ Front-End WebDev - I specialize in JS, HTML, CSS, and Vite.
 <br>
 ⦾ 3D Modeling & Texturing - I love creating stunning visuals using Blender and Photoshop.
+
 ---
+
 Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. 😊
 <br>
 <br>
