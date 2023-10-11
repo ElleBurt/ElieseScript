@@ -1,8 +1,8 @@
-<h2>🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK. </h2>
+## 🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK. 
 
-<h3>Learning programming has been my creative journey for years. Starting with Python & C#, I’ve explored the realms of full-stack web development, 3D art, digital art, and game development. This captivating voyage has allowed me to blend my passion for programming with my love for creating immersive visual experiences.</h3>
+### Learning programming has been my creative journey for years. Starting with Python & C#, I’ve explored the realms of full-stack web development, 3D art, digital art, and game development. This captivating voyage has allowed me to blend my passion for programming with my love for creating immersive visual experiences.
 
-<h3>🤗 My main interests reside within:</h3> 
+### 🤗 My main interests reside within:
 ⦾ Game Development - I enjoy working with Unity, C#, Roblox Studio, and Lua.
 <br>
 ⦾ Front-End WebDev - I specialize in JS, HTML, CSS, and Vite.
