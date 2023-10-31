@@ -4,10 +4,15 @@
 
 ### My main interests reside within:
 ⦾ Fullstack WebDev - I specialize in JS, HTML, CSS, JQuery, Express and Vite. Though i do like to integrate MongoDb from time to time.
+
 <br>
+
 ⦾ 3D Modeling - I love spending some spare time bringing my ideas to life in blender.
+
 <br>
+
 ⦾ Graphics Design - If im not making a website, working on a game or 3d Modeling; then im probably in photoshop or afterEffects making graphics for them.
+
 ---
 
 Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. (Please note this is currently in the process of being overhauld to a MEVN stack) 😊
