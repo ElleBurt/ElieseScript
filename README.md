@@ -1,18 +1,20 @@
-## 🫣 Welcome, I’m Elle/el - a passionate developer based in the 📍UK.
+## Welcome, I’m Elle/el - a passionate developer based in the 📍UK.
 
 **Learning programming has been my creative journey for years. Starting with Python & C#, I’ve explored the realms of full-stack web development, 3D art, digital art, and game development. This captivating voyage has allowed me to blend my passion for programming with my love for creating immersive visual experiences.**
 
-### 🤗 My main interests reside within:
+### My main interests reside within:
 ⦾ WebDev - I specialize in JS, HTML, CSS, JQuery, Express and Vite.
 <br>
 ⦾ 3D Modeling - I love spending some spare time bringing my ideas to life in blender
 
 ---
 
-Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. 😊
+Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. (Please not this is currently in the process of being overhauld to a MEVN stack) 😊
 <br>
 <br>
 Also, don’t forget to take a look at another site I worked on: <a href="http://www.trucklinkvtc.co.uk/">Trucklink VTC.</a>
+
+Trucklink is a Realtime Data Steaming website that displays users in game data to a dashboard on the site, including: Speed, Events, Live Map Possitioning, adn more!
 
 ---
 # 🖥️ Tech Stack:
