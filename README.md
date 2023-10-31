@@ -20,7 +20,7 @@ Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to 
 <br>
 Also, don’t forget to take a look at another site I worked on: <a href="http://www.trucklinkvtc.co.uk/">Trucklink VTC.</a>
 
-Trucklink is a Realtime Data Steaming website that displays users in game data to a dashboard on the site, including: Speed, Events, Live Map Possitioning, and more!
+Trucklink is a Realtime Data Streaming website that displays users in game data to a dashboard on the site, including: Speed, Events, Live Map Possitioning, and more!
 
 ![Image](TrucklinkDashboard.png)
 
