@@ -15,7 +15,7 @@
 
 ---
 
-Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. (Please note this is currently in the process of being overhauld to a MEVN stack) 😊
+Feel free to check out my website <a href="https://elleburt.co.uk/">here</a> to learn more about me and my work. (Please note this is currently in the process of being overhauled to a MEVN stack) 😊
 <br>
 <br>
 Also, don’t forget to take a look at another site I worked on: <a href="http://www.trucklinkvtc.co.uk/">Trucklink VTC.</a>
