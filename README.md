@@ -3,7 +3,7 @@
 **Learning programming has been my creative journey for years. Starting with Python & C#, I’ve explored the realms of full-stack web development, 3D art, digital art, and game development. This captivating voyage has allowed me to blend my passion for programming with my love for creating immersive visual experiences.**
 
 ### My main interests reside within:
-⦾ Fullstack WebDev - I specialize in JS, HTML, CSS, JQuery, Express and Vite. Though i doo like to integrate MongoDb from time to time.
+⦾ Fullstack WebDev - I specialize in JS, HTML, CSS, JQuery, Express and Vite. Though i do like to integrate MongoDb from time to time.
 <br>
 ⦾ 3D Modeling - I love spending some spare time bringing my ideas to life in blender
 
