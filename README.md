@@ -17,7 +17,6 @@
 
 Feel free to check out my <a href="https://elleburt.co.uk/">website</a> to learn more about me and my work. (Please note this is currently in the process of being overhauled to a MEVN stack) 😊
 
-Get a sneak peek: <a href="https://youtu.be/48X8b_JbK0M" target="_blank">here</a>  and  <a href="https://youtu.be/80LcKv-kZqY" target="_blank">Here</a>
 <br>
 <br>
 Also, don’t forget to take a look at another site I worked on: <a href="http://www.trucklinkvtc.co.uk/" target="_blank">Trucklink VTC.</a>
